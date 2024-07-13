@@ -30,10 +30,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/RealHaris/RealHaris/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="44" alt="javascript logo"  />
   <img width="17" />
